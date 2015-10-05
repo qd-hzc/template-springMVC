@@ -1,12 +1,12 @@
-package com.cn.hnust.service.impl;
+package com.haier.service.impl;
 
 import javax.annotation.Resource;
 
 import org.springframework.stereotype.Service;
 
-import com.cn.hnust.dao.IUserDao;
-import com.cn.hnust.pojo.User;
-import com.cn.hnust.service.IUserService;
+import com.haier.dao.IUserDao;
+import com.haier.pojo.User;
+import com.haier.service.IUserService;
 
 @Service("userService")
 public class UserServiceImpl implements IUserService {

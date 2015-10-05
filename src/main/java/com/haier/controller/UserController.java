@@ -1,4 +1,4 @@
-package com.cn.hnust.controller;
+package com.haier.controller;
 
 import javax.annotation.Resource;
 import javax.servlet.http.HttpServletRequest;
@@ -7,8 +7,8 @@ import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 
-import com.cn.hnust.pojo.User;
-import com.cn.hnust.service.IUserService;
+import com.haier.pojo.User;
+import com.haier.service.IUserService;
 import org.springframework.web.bind.annotation.ResponseBody;
 
 @Controller

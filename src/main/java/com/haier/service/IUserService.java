@@ -1,6 +1,6 @@
-package com.cn.hnust.service;
+package com.haier.service;
 
-import com.cn.hnust.pojo.User;
+import com.haier.pojo.User;
 
 public interface IUserService {
 	public User getUserById(int userId);

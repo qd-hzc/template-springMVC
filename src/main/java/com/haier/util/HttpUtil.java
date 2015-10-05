@@ -1,4 +1,4 @@
-package com.cn.hnust.util;
+package com.haier.util;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -8,12 +8,11 @@ import java.net.URL;
 import java.net.URLConnection;
 
 /**
- * Created by Michel on 2015/9/30.
+ * Http请求工具类
+ * <p>
+ * Created by HZC on 2015/9/30.
  */
-public class TestUtil {
-/*
-appKey=test&param=value&sign=6d86f806bd7680f544892219dd1c7410
-*/
+public class HttpUtil {
 
     /**
      * 向指定 URL 发送POST方法的请求

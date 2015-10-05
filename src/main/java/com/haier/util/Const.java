@@ -1,4 +1,4 @@
-package com.cn.hnust.util;
+package com.haier.util;
 
 /**
  * 常量
