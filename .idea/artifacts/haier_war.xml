@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="haier:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="org.zsl.hnust.war">
+      <element id="artifact" artifact-name="haier:war exploded" />
+    </root>
+  </artifact>
+</component>
